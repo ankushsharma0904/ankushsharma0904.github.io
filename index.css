@@ -3,6 +3,7 @@ body {
     background-size: cover; /* Cover the entire viewport */
     background-repeat: no-repeat; /* Do not repeat the background image */
     background-attachment: fixed; /* Fix the background image in place */
+    margin-bottom: 60px; /* Height of the footer */
   }
 
 .col-md-4 {
@@ -35,4 +36,10 @@ body {
     max-width: 30%; /* Adjust as needed */
     max-height: 30%; /* Adjust as needed */
     border-radius: 50px; /* Adjust as needed */
+}
+
+.github-logo-sm {
+    max-width: 10%;
+    max-height: 10%;
+    border-radius: 50px;
 }
